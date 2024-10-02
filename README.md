@@ -16,4 +16,4 @@ Meu codigo é uma tela de cadastro que pede as informações da pessoa como nome
 * H1
 
 # Porque eu fiz este codigo
-Porque era uma atividade da escola qu valia nota
+Porque era uma atividade da escola que valia nota
